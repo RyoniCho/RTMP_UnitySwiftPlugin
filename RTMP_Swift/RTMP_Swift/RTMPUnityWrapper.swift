@@ -81,7 +81,7 @@ import HaishinKit
 
         rtmpConnection.connect("rtmp://live-sel03.twitch.tv/app/")
         print("rtmp connect")
-        rtmpStream.publish("live_561950205_hsmba7LGW90U7Wwm3j0q6oQsVmfbq7")
+        rtmpStream.publish("==TWITCH LIVE KEY HERE==")
         print("rtmp publish")
         
         isStartStream=true
