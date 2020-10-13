@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:RTMP_UnityBridge/RTMP_UnityBridge.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RTMP_Swift/RTMP_Swift.xcodeproj">
+   </FileRef>
+</Workspace>
