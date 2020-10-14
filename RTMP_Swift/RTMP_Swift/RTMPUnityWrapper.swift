@@ -45,7 +45,7 @@ import HaishinKit
         }
     }
     
-    @objc public func StartRTMP(view:UIView)
+    @objc public func StartRTMP(view:UIView,rtmpUrl:String,publishKey:String)
     {
         if(isStartStream==true)
         {
@@ -56,35 +56,34 @@ import HaishinKit
         
         rtmpStream.captureSettings=[.fps:30,.sessionPreset:AVCaptureSession.Preset.medium]
         rtmpStream.videoSettings=[.bitrate:5*1200*1024,.maxKeyFrameIntervalDuration:2]
-//        rtmpStream.videoSettings=[.bitrate:160*1000,.maxKeyFrameIntervalDuration:2]
-//        rtmpStream.attachAudio(AVCaptureDevice.default(for: AVMediaType.audio))
-//        {
-//            error in
-//            print(error)
-//        }
+//      rtmpStream.videoSettings=[.bitrate:160*1000,.maxKeyFrameIntervalDuration:2]
+        rtmpStream.attachAudio(AVCaptureDevice.default(for: AVMediaType.audio))
+        {
+            error in
+            print(error)
+        }
         
+//        //Attach Cam
 //        rtmpStream.attachCamera(DeviceUtil.device(withPosition: .back)) { error in
 //            print(error)
 //        }
-        
-        rtmpStream.attachScreen(ScreenCaptureSession(viewToCapture: view))
 //
 //        let hkView = HKView(frame: view.bounds)
 //        hkView.videoGravity = AVLayerVideoGravity.resizeAspectFill
 //        hkView.attachStream(rtmpStream)
-     
-
+//        add ViewController
+//        view.addSubview(hkView)
         
-        // add ViewController#view
-        //view.addSubview(hkView)
-        print("add ViewController#view")
+        rtmpStream.attachScreen(ScreenCaptureSession(viewToCapture: view))
 
-        rtmpConnection.connect("rtmp://live-sel03.twitch.tv/app/")
+        rtmpConnection.connect(rtmpUrl)
         print("rtmp connect")
-        rtmpStream.publish("==TWITCH LIVE KEY HERE==")
+        
+        rtmpStream.publish(publishKey)
         print("rtmp publish")
         
         isStartStream=true
+        
         // if you want to record a stream.
         // rtmpStream.publish("streamName", type: .localRecord)
         
@@ -100,7 +99,7 @@ import HaishinKit
             
             rtmpConnection.close()
             
-            
+            print("rtmp connection closed")
             isStartStream=false
         }
         

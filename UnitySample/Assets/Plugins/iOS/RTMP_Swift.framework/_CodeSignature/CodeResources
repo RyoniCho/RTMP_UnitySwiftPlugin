@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RTMP_Swift-Swift.h</key>
 		<data>
-		C/hdG4x2BCTGqL8OiJJliM/DI8I=
+		r+sVJvJDiFrUP5Cz0KfgXxumGac=
 		</data>
 		<key>Headers/RTMP_Swift.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nKgZ3PUIDXNO5Hb0Jaq2pAAcgA0=
+		/1sMEPXVtPWWk2r5JnzGdkl/NkY=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		SNiE5bRWYyggTOonOCGmQOH3OoE=
+		+jemFi3NASrTWR846n8rzzvOyBY=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		SNiE5bRWYyggTOonOCGmQOH3OoE=
+		+jemFi3NASrTWR846n8rzzvOyBY=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ed8qOTumtZzp5LArfucnDtyPOLc=
+		IlR+jg/PyUZvl2aNwsvHrllnAp8=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Ed8qOTumtZzp5LArfucnDtyPOLc=
+		IlR+jg/PyUZvl2aNwsvHrllnAp8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RPsy0B9GqZn62qereSNgieqSXPUha4kZgKEEhbLbm/4=
+			xoYJm/9x7dXfGJNUwaBVFXvfFTPRrqqP4qauLFRjrLU=
 			</data>
 		</dict>
 		<key>Headers/RTMP_Swift.h</key>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T422KsmEfbqQc4V7tF3htof7dFoBDTepOP3MzfKkEf8=
+			NuRl0fobtnoJZOvivXv5xE2T3vSCfmLLNA6JU2Ymqb4=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T422KsmEfbqQc4V7tF3htof7dFoBDTepOP3MzfKkEf8=
+			NuRl0fobtnoJZOvivXv5xE2T3vSCfmLLNA6JU2Ymqb4=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zATgzoP96zlvttVRsx3rL8KHP9NVlshLupQI36P8H6I=
+			9uNpi1bbVAtVUyC6Srdwv7qtS0lt6N2ZnE/anll1dBo=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zATgzoP96zlvttVRsx3rL8KHP9NVlshLupQI36P8H6I=
+			9uNpi1bbVAtVUyC6Srdwv7qtS0lt6N2ZnE/anll1dBo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

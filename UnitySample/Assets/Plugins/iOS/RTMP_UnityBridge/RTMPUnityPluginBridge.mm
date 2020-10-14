@@ -21,11 +21,12 @@ extern "C"
         [[RTMPUnityWrapper GetInstance] InitializeAVSession];
     }
 
-    void StartRTMP()
+    void StartRTMP(const char* rtmpUrl,const char* rtmpPublishKey)
     {
         UIView* view = GetAppController().unityView;
         
-        [[RTMPUnityWrapper GetInstance] StartRTMPWithView:view];
+        [[RTMPUnityWrapper GetInstance] StartRTMPWithView:view rtmpUrl:rtmpUrl publishKey:rtmpPublishKey];
+       
     }
 
     void StopRTMP()

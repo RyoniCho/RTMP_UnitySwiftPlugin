@@ -212,7 +212,7 @@ SWIFT_CLASS("_TtC10RTMP_Swift16RTMPUnityWrapper")
 @interface RTMPUnityWrapper : NSObject
 + (RTMPUnityWrapper * _Nonnull)GetInstance SWIFT_WARN_UNUSED_RESULT;
 - (void)InitializeAVSession;
-- (void)StartRTMPWithView:(UIView * _Nonnull)view;
+- (void)StartRTMPWithView:(UIView * _Nonnull)view rtmpUrl:(NSString * _Nonnull)rtmpUrl publishKey:(NSString * _Nonnull)publishKey;
 - (void)StopRTMP;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
