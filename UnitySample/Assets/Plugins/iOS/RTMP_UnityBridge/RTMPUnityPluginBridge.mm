@@ -24,9 +24,10 @@ extern "C"
     void StartRTMP(const char* rtmpUrl,const char* rtmpPublishKey)
     {
         UIView* view = GetAppController().unityView;
+        NSString* url=[NSString stringWithUTF8String:rtmpUrl];
+        NSString* key=[NSString stringWithUTF8String:rtmpPublishKey];
         
-        [[RTMPUnityWrapper GetInstance] StartRTMPWithView:view rtmpUrl:rtmpUrl publishKey:rtmpPublishKey];
-       
+        [[RTMPUnityWrapper GetInstance] StartRTMPWithView:view rtmpUrl:url publishKey:key];
     }
 
     void StopRTMP()
