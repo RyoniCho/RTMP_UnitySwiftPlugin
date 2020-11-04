@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RTMP_Swift-Swift.h</key>
 		<data>
-		r+sVJvJDiFrUP5Cz0KfgXxumGac=
+		G1Zy5avMaS/t+rWu5/cV5aj5T3E=
 		</data>
 		<key>Headers/RTMP_Swift.h</key>
 		<data>
@@ -14,31 +14,67 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/1sMEPXVtPWWk2r5JnzGdkl/NkY=
+		GzFZES01wF/2XHgeOKBWdYP+two=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<data>
+		Jq9knytDc0rACyYfpLOkqbc8njg=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		+jemFi3NASrTWR846n8rzzvOyBY=
+		5wUlabiBOjozv7GBAIsIVyYGcRM=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		+jemFi3NASrTWR846n8rzzvOyBY=
+		5wUlabiBOjozv7GBAIsIVyYGcRM=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<data>
+		Jq9knytDc0rACyYfpLOkqbc8njg=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<data>
+		Jq9knytDc0rACyYfpLOkqbc8njg=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/arm.swiftdoc</key>
+		<data>
+		gQxT2z+IdDOauVEhoWRvaC+U6eY=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/arm.swiftmodule</key>
+		<data>
+		IDr2ABZEP5XwjqSffae/Yd7PcUA=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		qBZRZOkdKLcL45YzHBxuvGlvxP0=
+		4bxliLgX805ckXThMLbWOyNOwls=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IlR+jg/PyUZvl2aNwsvHrllnAp8=
+		f1jJVfH2Nt+rFEfXeuuNW4xxYKc=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		qBZRZOkdKLcL45YzHBxuvGlvxP0=
+		4bxliLgX805ckXThMLbWOyNOwls=
 		</data>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		IlR+jg/PyUZvl2aNwsvHrllnAp8=
+		f1jJVfH2Nt+rFEfXeuuNW4xxYKc=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		gQxT2z+IdDOauVEhoWRvaC+U6eY=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		IDr2ABZEP5XwjqSffae/Yd7PcUA=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		gQxT2z+IdDOauVEhoWRvaC+U6eY=
+		</data>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		IDr2ABZEP5XwjqSffae/Yd7PcUA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,62 +85,197 @@
 	<dict>
 		<key>Headers/RTMP_Swift-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			G1Zy5avMaS/t+rWu5/cV5aj5T3E=
+			</data>
 			<key>hash2</key>
 			<data>
-			xoYJm/9x7dXfGJNUwaBVFXvfFTPRrqqP4qauLFRjrLU=
+			UGNx5dpToiNUvU8eTsUly52theS2zVt+g4XGYzponf8=
 			</data>
 		</dict>
 		<key>Headers/RTMP_Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			PzQ4w1MOO543dFEPXGPDKBXEm4k=
+			</data>
 			<key>hash2</key>
 			<data>
 			mfxWmLDwIVaaG/xZP6osxg9xkMrzpMVpgME+NH+pxII=
 			</data>
 		</dict>
-		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/arm.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Jq9knytDc0rACyYfpLOkqbc8njg=
+			</data>
 			<key>hash2</key>
 			<data>
-			NuRl0fobtnoJZOvivXv5xE2T3vSCfmLLNA6JU2Ymqb4=
+			Jh2tDdqCdAIuc7xANnKtSI2Bx1SmtaAOhURkjRvGnSY=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5wUlabiBOjozv7GBAIsIVyYGcRM=
+			</data>
+			<key>hash2</key>
+			<data>
+			sSyLRhNUsYyuur2JEkFCfFXBfTMrvf1B+mncONpoCws=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			5wUlabiBOjozv7GBAIsIVyYGcRM=
+			</data>
 			<key>hash2</key>
 			<data>
-			NuRl0fobtnoJZOvivXv5xE2T3vSCfmLLNA6JU2Ymqb4=
+			sSyLRhNUsYyuur2JEkFCfFXBfTMrvf1B+mncONpoCws=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jq9knytDc0rACyYfpLOkqbc8njg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jh2tDdqCdAIuc7xANnKtSI2Bx1SmtaAOhURkjRvGnSY=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jq9knytDc0rACyYfpLOkqbc8njg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jh2tDdqCdAIuc7xANnKtSI2Bx1SmtaAOhURkjRvGnSY=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQxT2z+IdDOauVEhoWRvaC+U6eY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ye6M4AHf8dYd8t24ows5tCi6qATN8qUDSoGXjQYUGIA=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDr2ABZEP5XwjqSffae/Yd7PcUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			B4rPrXmginEsIoJ9PT/gIOPc4I0vF9avfksmSgh8u58=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4bxliLgX805ckXThMLbWOyNOwls=
+			</data>
 			<key>hash2</key>
 			<data>
-			uRdi8f6X9hVwXgPyRm8oYL4WuOB7DV9peaJSqxONV10=
+			yEQU23T657jum5/oKpi4Daxp7Zd9Kl/RNXwdVubFUYg=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			f1jJVfH2Nt+rFEfXeuuNW4xxYKc=
+			</data>
 			<key>hash2</key>
 			<data>
-			9uNpi1bbVAtVUyC6Srdwv7qtS0lt6N2ZnE/anll1dBo=
+			iISadw321vs+OP85ZiCWhbsTGxZmh4DxqKFghJuRggo=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			4bxliLgX805ckXThMLbWOyNOwls=
+			</data>
 			<key>hash2</key>
 			<data>
-			uRdi8f6X9hVwXgPyRm8oYL4WuOB7DV9peaJSqxONV10=
+			yEQU23T657jum5/oKpi4Daxp7Zd9Kl/RNXwdVubFUYg=
 			</data>
 		</dict>
 		<key>Modules/RTMP_Swift.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			f1jJVfH2Nt+rFEfXeuuNW4xxYKc=
+			</data>
 			<key>hash2</key>
 			<data>
-			9uNpi1bbVAtVUyC6Srdwv7qtS0lt6N2ZnE/anll1dBo=
+			iISadw321vs+OP85ZiCWhbsTGxZmh4DxqKFghJuRggo=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQxT2z+IdDOauVEhoWRvaC+U6eY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ye6M4AHf8dYd8t24ows5tCi6qATN8qUDSoGXjQYUGIA=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDr2ABZEP5XwjqSffae/Yd7PcUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			B4rPrXmginEsIoJ9PT/gIOPc4I0vF9avfksmSgh8u58=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gQxT2z+IdDOauVEhoWRvaC+U6eY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ye6M4AHf8dYd8t24ows5tCi6qATN8qUDSoGXjQYUGIA=
+			</data>
+		</dict>
+		<key>Modules/RTMP_Swift.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDr2ABZEP5XwjqSffae/Yd7PcUA=
+			</data>
+			<key>hash2</key>
+			<data>
+			B4rPrXmginEsIoJ9PT/gIOPc4I0vF9avfksmSgh8u58=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			t56fa3qBBjkk4OAozofjRyuh0Ro=
+			</data>
 			<key>hash2</key>
 			<data>
 			qyJKXTogee40qAaXLYLaJIxgRNz+zHpqtEVsYOEqd6A=
