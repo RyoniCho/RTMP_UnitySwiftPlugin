@@ -20,7 +20,7 @@ public static class PostprocessBuildPlayer
             
             var unityAppTargetID = pBXProject.GetUnityMainTargetGuid();
 
-            pBXProject.SetBuildProperty(unityAppTargetID, "ALWAYS_EMBEDED_SWIFT_STANDARD_LIBRARIES", "YES");
+            pBXProject.SetBuildProperty(unityAppTargetID, "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES", "YES");
            
             pBXProject.WriteToFile(projectPath);
         }
